@@ -8,6 +8,3 @@ class Solution:
         values_to_k = values_sorted[:k]
         #print(listfr)
         return values_to_k
-
-
-
