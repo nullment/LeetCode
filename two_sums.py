@@ -10,4 +10,6 @@ class Solution(object):
             
                 if nums[i] + nums[j] == target:
                     list = [j, i]
-        return list
+        return list\
+        
+print(Solution().twoSum([2, 7, 11, 15], 9))
