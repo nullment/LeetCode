@@ -6,4 +6,4 @@ class Solution:
         if s == t:
             return True
 
-        return False
+        return Fals
